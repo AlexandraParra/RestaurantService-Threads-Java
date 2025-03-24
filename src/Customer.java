@@ -1,0 +1,1 @@
+record Customer(String name) {}
